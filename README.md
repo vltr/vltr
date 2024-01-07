@@ -11,7 +11,7 @@ fun thing about git is that everything is tracked ... even this initial attempt 
                 v                    +----------------------------+
       +---------+------------+       |                            |
       | but, mostly, because |       |   a dyslexic programmer,   |
-      |   I have dyslexia    +------>+    how fun can this be?    |
+      |   I have dyslexia    +------>+    how fun can that be?    |
       +----------------------+       |                            |
                                      +----------------------------+
 ```
