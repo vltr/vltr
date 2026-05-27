@@ -1,6 +1,6 @@
 # hi, I'm Richard 👋
 
-Backend engineer / architect from southern Brazil. Twenty-five years of mostly-Python, mostly-Postgres, mostly-async — sometimes wiring network cables, often coding things that matter.
+Backend engineer / architect from southern Brazil. Twenty-five years of mostly Python, mostly Postgres, mostly async. Sometimes wiring network cables, often coding things that matter.
 
 ```python
 import typing as t
@@ -74,7 +74,7 @@ if __name__ == "__main__":
     assert "FOSS" in richard.loves
 ```
 
-I helped run [Sanic](https://sanic.dev) for a while (former core dev), got a public "shout out to @vltr for all his work" from the `sanic-jwt` lead maintainer — that one's archived in the docs, which is nice — and authored a handful of PyPI packages that did their job before the ecosystem caught up.
+I helped run [Sanic](https://sanic.dev) for a while (former core dev) and got a public "shout out to @vltr for all his work" from the `sanic-jwt` lead maintainer. That one's archived in the docs, which is nice. I also authored a handful of PyPI packages that did their job before the ecosystem caught up.
 
 These days I'm the sole backend voice at a US workforce-management SaaS, running the multi-quarter roadmap that keeps the lights on. I treat Claude Code as a platform to engineer around (hooks, skills, MCP servers, agents), not just to prompt.
 
